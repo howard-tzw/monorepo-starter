@@ -4,11 +4,8 @@
 	"description": "",
 	"private": true,
 	"packageManager": "pnpm@8.6.9",
-	"scripts": {
-		"build": "rollup -c rollup.config.ts"
-	},
+	"scripts": {},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
-	"devDependencies": {}
+	"license": "ISC"
 }
